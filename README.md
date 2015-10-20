@@ -1,2 +1,2 @@
 # OfficeWiki
-De kennisbankl van OfficeFOrum
+De kennisbank van OfficeForum
